@@ -1,0 +1,11 @@
+C:\Users\tolka\OneDrive\Рабочий стол\шарп\KDZ3MOD3\MonumentsLibrary\bin\Debug\net6.0\MonumentsLibrary.deps.json
+C:\Users\tolka\OneDrive\Рабочий стол\шарп\KDZ3MOD3\MonumentsLibrary\bin\Debug\net6.0\MonumentsLibrary.dll
+C:\Users\tolka\OneDrive\Рабочий стол\шарп\KDZ3MOD3\MonumentsLibrary\bin\Debug\net6.0\MonumentsLibrary.pdb
+C:\Users\tolka\OneDrive\Рабочий стол\шарп\KDZ3MOD3\MonumentsLibrary\obj\Debug\net6.0\MonumentsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tolka\OneDrive\Рабочий стол\шарп\KDZ3MOD3\MonumentsLibrary\obj\Debug\net6.0\MonumentsLibrary.AssemblyInfoInputs.cache
+C:\Users\tolka\OneDrive\Рабочий стол\шарп\KDZ3MOD3\MonumentsLibrary\obj\Debug\net6.0\MonumentsLibrary.AssemblyInfo.cs
+C:\Users\tolka\OneDrive\Рабочий стол\шарп\KDZ3MOD3\MonumentsLibrary\obj\Debug\net6.0\MonumentsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\tolka\OneDrive\Рабочий стол\шарп\KDZ3MOD3\MonumentsLibrary\obj\Debug\net6.0\MonumentsLibrary.dll
+C:\Users\tolka\OneDrive\Рабочий стол\шарп\KDZ3MOD3\MonumentsLibrary\obj\Debug\net6.0\refint\MonumentsLibrary.dll
+C:\Users\tolka\OneDrive\Рабочий стол\шарп\KDZ3MOD3\MonumentsLibrary\obj\Debug\net6.0\MonumentsLibrary.pdb
+C:\Users\tolka\OneDrive\Рабочий стол\шарп\KDZ3MOD3\MonumentsLibrary\obj\Debug\net6.0\ref\MonumentsLibrary.dll

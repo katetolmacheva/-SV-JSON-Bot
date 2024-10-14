@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KDZ3MOD3", "KDZ3MOD3\KDZ3MOD3.csproj", "{BC22885B-7F48-45CA-8B41-A61ECC1C6C49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonumentsLibrary", "MonumentsLibrary\MonumentsLibrary.csproj", "{0E59FADF-8D10-4912-AACB-BC50C4596B58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC22885B-7F48-45CA-8B41-A61ECC1C6C49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC22885B-7F48-45CA-8B41-A61ECC1C6C49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC22885B-7F48-45CA-8B41-A61ECC1C6C49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC22885B-7F48-45CA-8B41-A61ECC1C6C49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E59FADF-8D10-4912-AACB-BC50C4596B58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E59FADF-8D10-4912-AACB-BC50C4596B58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E59FADF-8D10-4912-AACB-BC50C4596B58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E59FADF-8D10-4912-AACB-BC50C4596B58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5401DBA-E725-4B42-9F42-12142642DCEE}
+	EndGlobalSection
+EndGlobal

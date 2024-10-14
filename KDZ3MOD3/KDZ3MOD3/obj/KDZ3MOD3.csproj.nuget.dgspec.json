@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\tolka\\OneDrive\\Рабочий стол\\шарп\\KDZ3MOD3\\KDZ3MOD3\\KDZ3MOD3.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\tolka\\OneDrive\\Рабочий стол\\шарп\\KDZ3MOD3\\KDZ3MOD3\\KDZ3MOD3.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tolka\\OneDrive\\Рабочий стол\\шарп\\KDZ3MOD3\\KDZ3MOD3\\KDZ3MOD3.csproj",
+        "projectName": "KDZ3MOD3",
+        "projectPath": "C:\\Users\\tolka\\OneDrive\\Рабочий стол\\шарп\\KDZ3MOD3\\KDZ3MOD3\\KDZ3MOD3.csproj",
+        "packagesPath": "C:\\Users\\tolka\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tolka\\OneDrive\\Рабочий стол\\шарп\\KDZ3MOD3\\KDZ3MOD3\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tolka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\tolka\\OneDrive\\Рабочий стол\\шарп\\KDZ3MOD3\\MonumentsLibrary\\MonumentsLibrary.csproj": {
+                "projectPath": "C:\\Users\\tolka\\OneDrive\\Рабочий стол\\шарп\\KDZ3MOD3\\MonumentsLibrary\\MonumentsLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Telegram.Bot": {
+              "target": "Package",
+              "version": "[20.0.0-alpha.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tolka\\OneDrive\\Рабочий стол\\шарп\\KDZ3MOD3\\MonumentsLibrary\\MonumentsLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tolka\\OneDrive\\Рабочий стол\\шарп\\KDZ3MOD3\\MonumentsLibrary\\MonumentsLibrary.csproj",
+        "projectName": "MonumentsLibrary",
+        "projectPath": "C:\\Users\\tolka\\OneDrive\\Рабочий стол\\шарп\\KDZ3MOD3\\MonumentsLibrary\\MonumentsLibrary.csproj",
+        "packagesPath": "C:\\Users\\tolka\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tolka\\OneDrive\\Рабочий стол\\шарп\\KDZ3MOD3\\MonumentsLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tolka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kcZ9riTMW9wFy8Nax7eoiEhsZrblhEgM4TCokxSGrSIJsBOL2B2R/LaPaAyEBrG3VCku44U9oeE1nsPEMVhSSQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tolka\\OneDrive\\Рабочий стол\\шарп\\KDZ3MOD3\\KDZ3MOD3\\KDZ3MOD3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tolka\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\tolka\\.nuget\\packages\\telegram.bot\\20.0.0-alpha.1\\telegram.bot.20.0.0-alpha.1.nupkg.sha512"
+  ],
+  "logs": []
+}
